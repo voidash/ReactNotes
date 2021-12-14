@@ -52,4 +52,4 @@ Couple of react apps. and relevant notes for future.
 * When using Js Objects to style the elements, there can't be snake-casing i.e (background-color). It needs to be backgroundColor.
 * className instead of class because : React after compiling uses Regular DOM api and className is just part of it. Only HTML specific elements can have className attached to it. If usermade element is made to have a className , it will pass as prop.
 * User Made components can be styled. ```style={{color: '#fff' , backgroundColor:'#000'}}```
-*
+
